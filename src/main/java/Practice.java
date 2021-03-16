@@ -30,6 +30,8 @@ public class Practice {
 //        new LongestValidParantheses().display();
 //        new TrappingRainWater().display();
 //        new WildCardMatching().display();
-        new MaximumSubarray().display();
+//        new MaximumSubarray().display();
+        new UniquePath().display();
+
     }
 }
