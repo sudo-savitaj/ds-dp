@@ -28,6 +28,7 @@ public class Practice {
 //        new LongestPalindromeSubstring().display();
 //        new RegularExpressionMatching().display();
 //        new LongestValidParantheses().display();
-        new TrappingRainWater().display();
+//        new TrappingRainWater().display();
+        new WildCardMatching().display();
     }
 }
