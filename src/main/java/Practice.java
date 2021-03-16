@@ -29,6 +29,7 @@ public class Practice {
 //        new RegularExpressionMatching().display();
 //        new LongestValidParantheses().display();
 //        new TrappingRainWater().display();
-        new WildCardMatching().display();
+//        new WildCardMatching().display();
+        new MaximumSubarray().display();
     }
 }
