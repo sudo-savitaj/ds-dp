@@ -32,7 +32,9 @@ public class Practice {
 //        new WildCardMatching().display();
 //        new MaximumSubarray().display();
 //        new UniquePath().display();
-        new PossiblePalindromePartitioning().display();
+//        new PossiblePalindromePartitioning().display();
+
+        new CountNthStair().display();
 
     }
 }
