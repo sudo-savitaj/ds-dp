@@ -31,7 +31,8 @@ public class Practice {
 //        new TrappingRainWater().display();
 //        new WildCardMatching().display();
 //        new MaximumSubarray().display();
-        new UniquePath().display();
+//        new UniquePath().display();
+        new PossiblePalindromePartitioning().display();
 
     }
 }

@@ -1,3 +1,4 @@
+//https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/
 public class PalindromePartitioning {
     int[][] t = new int[501][501];
     public void display() {
