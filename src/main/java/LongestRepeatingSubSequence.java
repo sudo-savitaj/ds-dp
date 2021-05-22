@@ -1,3 +1,4 @@
+//https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&company[]=Amazon&company[]=Amazon&problemType=functional&page=1&query=category[]Dynamic%20Programmingcompany[]AmazonproblemTypefunctionalpage1company[]Amazoncategory[]Dynamic%20Programming
 public class LongestRepeatingSubSequence {
     void display(){
         int result = longestRepeatingSubsequence("AABEBCDD");

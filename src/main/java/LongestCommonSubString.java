@@ -1,3 +1,4 @@
+//https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&company[]=Amazon&company[]=Amazon&problemType=functional&page=1&query=category[]Dynamic%20Programmingcompany[]AmazonproblemTypefunctionalpage1company[]Amazoncategory[]Dynamic%20Programming
 public class LongestCommonSubString {
     public void display() {
         int lcs = longestCommonSubstr( "ABCDGH", "ACDGHR",6, 6);

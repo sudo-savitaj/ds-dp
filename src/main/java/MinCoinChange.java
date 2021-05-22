@@ -1,3 +1,4 @@
+//https://practice.geeksforgeeks.org/problems/number-of-coins1824/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&company[]=Amazon&company[]=Amazon&problemType=functional&page=2&query=category[]Dynamic%20Programmingcompany[]AmazonproblemTypefunctionalpage2company[]Amazoncategory[]Dynamic%20Programming
 public class MinCoinChange {
     public void display() {
         int[] cents = {15,1};

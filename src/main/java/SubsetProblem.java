@@ -64,6 +64,7 @@ public class SubsetProblem {
         return cache[n][sum];
     }
 
+    //https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&company[]=Amazon&company[]=Amazon&problemType=functional&page=1&query=category[]Dynamic%20Programmingcompany[]AmazonproblemTypefunctionalpage1company[]Amazoncategory[]Dynamic%20Programming
     int equalPartition(int arr[])
     {
         int N = arr.length;

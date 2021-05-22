@@ -1,3 +1,4 @@
+//https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&company[]=Amazon&company[]=Amazon&problemType=functional&page=2&query=category[]Dynamic%20Programmingcompany[]AmazonproblemTypefunctionalpage2company[]Amazoncategory[]Dynamic%20Programming
 //https://www.geeksforgeeks.org/palindrome-partitioning-dp-17/
 public class PalindromePartitioning {
     int[][] t = new int[501][501];

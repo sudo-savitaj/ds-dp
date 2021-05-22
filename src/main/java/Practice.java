@@ -3,6 +3,7 @@ public class Practice {
 //        new Knapsack().display();
 //        new SubsetProblem().display();
 //        new NumberOfSubset().display();
+
 //        new PartitionSetSuchThatDiffIsMin().display();
 //        new NumberOfSubsetWithDiff().display();
 //        new RodCutting().display();
@@ -33,8 +34,10 @@ public class Practice {
 //        new MaximumSubarray().display();
 //        new UniquePath().display();
 //        new PossiblePalindromePartitioning().display();
-
-        new CountNthStair().display();
+//        new CountNthStair().display();
+//        new HeightOfBinaryTree().display();
+//        new NQueenII();
+        new NQueens().demo();
 
     }
 }

@@ -1,4 +1,5 @@
 //Sequence Pattern Matching
+//https://practice.geeksforgeeks.org/problems/longest-common-subsequence-1587115620/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&company[]=Amazon&company[]=Amazon&problemType=functional&page=1&query=category[]Dynamic%20Programmingcompany[]AmazonproblemTypefunctionalpage1company[]Amazoncategory[]Dynamic%20Programming
 public class LongestCommonSubsequence {
     int[][] cache = new int[101][101];
 

@@ -1,3 +1,4 @@
+//https://www.geeksforgeeks.org/check-if-a-string-is-a-scrambled-form-of-another-string/
 public class ScrambleString {
     public void display() {
         Boolean isScramble = isScramlbeString("great", "rgeat");

@@ -1,3 +1,4 @@
+//https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1/?category[]=Dynamic%20Programming&category[]=Dynamic%20Programming&company[]=Amazon&company[]=Amazon&problemType=functional&page=1&query=category[]Dynamic%20Programmingcompany[]AmazonproblemTypefunctionalpage1company[]Amazoncategory[]Dynamic%20Programming
 import java.util.Arrays;
 
 public class Knapsack {
